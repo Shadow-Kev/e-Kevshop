@@ -1,0 +1,129 @@
+
+.logo{
+    text-align: center;
+}
+.logo a img{
+    width: 170px;
+}
+
+.top-bar{
+    font-size: 1.3rem;
+    letter-spacing: .001rem;
+}
+
+.top-bar .cnt-account ul > li a{
+    color: #ef4428;
+}
+.w100{
+    width : 100%;
+}
+
+.no-pad{
+    padding: 0;
+}
+
+.mt-2p{
+    margin-top: 2%;
+}
+
+.header-style-1 .header-nav .navbar-default{
+    
+    background : #c33720;
+}
+
+.header-style-1 .header-nav{
+    border-bottom : 2px #c33720 solid;
+}
+
+.info-boxes-inner{   
+
+    background: #f9f8f8;
+}
+
+.info-box .info-box-heading.green{
+    color: #c33720;
+}
+
+.info-boxes .info-box .text{
+    color: #c33720;
+}
+
+.latest-blog .blog-post-image{
+    max-height: 200px;
+    
+}
+.latest-blog .blog-post img{
+    display: contain;
+    max-width: 100%;
+    
+}
+
+.blog-slider-container .blog-slider .blog-post-info .name a{
+    color: #c33720;
+    text-shadow: 2px 1px 3px #b5b5b5
+}
+
+
+.product .cart .action ul li.lnk.wishlist{
+    background : #c33720;
+}
+
+.hot-deals .product-info .product-price .price{
+    color: #c33720;
+}
+
+#hot-deal.section {
+    padding: 60px 0px;
+    margin: 30px 0px;
+    background-color: transparent;
+    background-image: url(../img/hotdeal.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.ft-sz-1-7rem{
+    font-size : 1.7rem;
+}
+
+ul.ft-sz-1-7rem  li{
+    margin-bottom : 1em;
+}
+/* border-right : 1px solid hsla(0, 0%, 18%, 0.2) */
+
+.navbar .navbar-nav li > a{
+    background: #80808030 !important;
+    border-bottom: 1px solid #b3b1b1 !important;
+    font-size: 17px!important;
+}
+
+.navbar .menu-title{
+    color: #ef4429 !important;
+}
+
+.navbar .navbar-nav li > a .menu-icon{
+    color: rgb(189, 167, 0);
+    font-size: 19px;
+    position: relative;
+    left: 8px;
+}
+
+body{
+    background: #e7e7e7;
+}
+
+.file-upload{
+    width: 100% !important;
+}
+
+
+header nav{
+    background: #ef4429 !important;
+}
+
+#cke_post_content{
+    width : 100%;
+}
+.table td, .table th {
+    padding: .2rem !important;
+}
